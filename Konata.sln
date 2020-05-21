@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konata.Ruler", "src\Konata.Ruler\Konata.Ruler.csproj", "{35E9FF2F-6E63-4912-8B79-2EA050037A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E9FF2F-6E63-4912-8B79-2EA050037A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E9FF2F-6E63-4912-8B79-2EA050037A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E9FF2F-6E63-4912-8B79-2EA050037A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E9FF2F-6E63-4912-8B79-2EA050037A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D20E787-C387-4321-BE60-4CE02CC3C518}
+	EndGlobalSection
+EndGlobal
