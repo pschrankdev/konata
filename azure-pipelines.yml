@@ -22,4 +22,12 @@ steps:
     restoreSolution: '$(solution)'
     feedsToUse: 'select'
     vstsFeed: 'b7c5e2d3-05ec-499c-8433-6a1286ad8877'
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
+    projects: '$(project)'
+    arguments: '--configuration $(buildConfiguration)'
+    
+
     
